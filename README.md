@@ -33,6 +33,14 @@ Aplicación que calcula el total a pagar por persona incluyendo propinas según 
 
 ---
 
+## 📁 **Contador de Calorías**
+
+Aplicación que te permite registrar ejercicios o comidas y calcular la diferencia de calorias.
+
+🔗 **Demo:** https://calories-tracker-eta-ruby.vercel.app/
+
+---
+
 # 🛠 Cómo ejecutar un proyecto localmente
 
 ```bash
