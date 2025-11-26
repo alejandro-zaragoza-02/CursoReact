@@ -25,6 +25,14 @@ En este listado se mostrarán todos los proyectos que se han realizado durante e
 
 ---
 
+## 📁 **GuitarLA - Carrito de Compras**
+
+Web que muestra los artículos de una tienda online y permite agregarlos a un carrito.
+
+🔗 **Demo:** https://guitarla-steel.vercel.app/
+
+---
+
 ## 📁 **Calculadora de Consumo y Propinas**
 
 Aplicación que calcula el total a pagar por persona incluyendo propinas según porcentajes seleccionados.
